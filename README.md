@@ -47,6 +47,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MurilloBorges&repo=extensoes-vscode&theme=blue-green)](https://github.com/MurilloBorges/extensoes-vscode)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MurilloBorges&repo=tcc&theme=radical)](https://github.com/MurilloBorges/tcc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MurilloBorges&repo=cardapioFC&theme=blue-green)](https://github.com/MurilloBorges/cardapioFC)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MurilloBorges&repo=marvel&theme=radical)](https://github.com/MurilloBorges/marvel)
+
 
 #### **Top Langs**
 
